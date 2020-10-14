@@ -1,0 +1,5 @@
+beer,nuts,diaper,
+beer,coffee,diaper,
+beer,diaper,eggs,
+nuts,eggs,milk,
+nuts,coffee,diaper,eggs,milk,
